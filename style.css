@@ -40,16 +40,16 @@
 }
 
 ul {
-  margin:0;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 
-input,button{
-  outline:none;
+input,button {
+  outline: none;
 }
 
 button {
@@ -150,16 +150,16 @@ li > input[type="text"] {
 
 /* Edit Task */
 #completed-tasks li input[type="text"] {
-  display:none
+  display: none
 }
 
 .edit-mode input[type="text"] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode label {
-  display:none;
+  display: none;
 }
 
 @media (max-width:768px) {
