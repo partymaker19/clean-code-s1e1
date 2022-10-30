@@ -21,11 +21,7 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
-.eisenhower-matrix { 
-  text-align: center;
-}
-}
+
 
 .centered-page {
   display: block;
@@ -164,4 +160,12 @@ li > input[type="text"] {
 
 .edit-mode label {
   display:none;
+}
+
+@media (max-width:768px) {
+
+  .eisenhower-matrix { 
+    text-align: center;
+  }
+
 }
