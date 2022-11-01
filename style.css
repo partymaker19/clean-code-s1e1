@@ -165,7 +165,9 @@ li > input[type="text"] {
 }
 
 @media (max-width: 768px) {
+
   .eisenhower-matrix {
     text-align: center;
   }
+  
 }
