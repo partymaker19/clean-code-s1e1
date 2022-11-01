@@ -151,10 +151,6 @@ li > input[type="text"] {
 }
 
 /* Edit Task */
-#completed-tasks li input[type="text"] {
-  display: none;
-}
-
 .edit-mode input[type="text"] {
   display: inline-block;
   width: 224px;
